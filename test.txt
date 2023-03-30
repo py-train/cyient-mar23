@@ -1,0 +1,7 @@
+Random
+testing data
+for
+
+checking FILE I/O
+
+capabilities.
