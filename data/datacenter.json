@@ -1,0 +1,18 @@
+[
+    {"hostname": "mac1",
+     "ip": ["10.10.92.1", "192.168.1.1"],
+     "os": {"base": "windows",
+             "version": "8",
+             "wordsize": 64
+           },
+     "make": "dell"
+    },
+    {"hostname": "mac2",
+     "ip": ["10.10.92.2"],
+     "os": {"base": "linux",
+             "version" : "ubuntu",
+             "wordsize" : 32
+           },
+     "make": "hp"
+    }
+]
